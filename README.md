@@ -1,4 +1,4 @@
-# Hi, I'm Orochi Genshin 👋
+# Hi, I'm Harish Chandra Kankipati 👋
 
 ### 🚀 Data Engineer | ETL & Data Warehousing | SQL • Python • PostgreSQL • AWS • Databricks
 
